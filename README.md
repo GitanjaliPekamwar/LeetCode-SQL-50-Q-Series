@@ -43,13 +43,6 @@ This repo is perfect for:
 | 9 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | `SELF JOIN`, `DATEDIFF`, `Filtering` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/197.%20Rising%20Temperature.sql) |
 | 10 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | `JOIN`, `AVG`, `ROUND`, `GROUP BY` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql) |
 
-
-
-
-
-
-
-
 ---
 
 ## 🧠 Learning Goals

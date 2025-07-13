@@ -33,7 +33,7 @@ This repo is perfect for:
 | # | Problem | Topic(s) | 💻 SQL Code |
 |:-:|---------|----------|-------------|
 | 1 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | `SELECT`, `WHERE` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/Recyclable%20and%20Low%20Fat%20Products.sql) |
-| 2 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | `NULL`, `Filtering` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/584.Find%20C)
+| 2 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | `NULL`, `Filtering` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/584.Find%20Customer%20Referee.sql)
 
 | 3 | [Big Countries](https://leetcode.com/problems/big-countries/) | `Comparison`, `SELECT` | [View](solutions/003-big-countries.sql) |
 | 4 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | `REGEXP`, `Filtering` | [View](solutions/004-valid-phone-numbers.sql) |

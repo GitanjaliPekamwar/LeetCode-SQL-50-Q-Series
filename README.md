@@ -40,6 +40,9 @@ This repo is perfect for:
 | 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | `LEFT JOIN`, `Aliasing` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) |
 | 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | `LEFT JOIN`, `Aliasing` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1068.%20Product%20Sales%20Analysis%20I.sql) |
 | 8 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | `LEFT JOIN`, `GROUP BY`, `NULL` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/Code%20Testcase%20Test%20Result%20Test%20Result%201581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) |
+| 9 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | `SELF JOIN`, `DATEDIFF`, `Filtering` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/197.%20Rising%20Temperature.sql) |
+| 10 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | `JOIN`, `AVG`, `ROUND`, `GROUP BY` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql) |
+
 
 
 

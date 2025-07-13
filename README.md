@@ -39,6 +39,8 @@ This repo is perfect for:
 | 5 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | `LENGTH`, `WHERE` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1683.%20Invalid%20Tweets.sql) |
 | 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | `LEFT JOIN`, `Aliasing` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) |
 | 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | `LEFT JOIN`, `Aliasing` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/1068.%20Product%20Sales%20Analysis%20I.sql) |
+| 8 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | `LEFT JOIN`, `GROUP BY`, `NULL` | [View](https://github.com/GitanjaliPekamwar/LeetCode-SQL-50-Q-Series/blob/main/Solutions/Code%20Testcase%20Test%20Result%20Test%20Result%201581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) |
+
 
 
 
